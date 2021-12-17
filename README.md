@@ -1,1 +1,1 @@
-# gpos700
+# gpos700 com versâo nova do IONIC

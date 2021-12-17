@@ -1,0 +1,7 @@
+{
+  "name": "gpos700",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
